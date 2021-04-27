@@ -1,0 +1,3 @@
+-U pip setuptools wheel
+-U spacy[cuda111]
+botbuilder-integration-aiohttp>=4.11.0
